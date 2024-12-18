@@ -1,0 +1,26 @@
+string is immutable
+string is a connection or sequence of characters
+enclose in single qoutes or double qoutes
+string has positive and negative index positions
+positive numbers counting from starting 
+starts from 0
+negative numbers counting from ending
+starts from -1
+
+        string methods
+ ------------------------------------
+
+
+slice
+syntax a[starting index:ending index]
+[::-2] using this syntax we can skip the value
+reverse of a string styntax [::-1]
+
+format
+print("{:<10}{:<10}".format("hello","welcome"))
+the value given for the space for the words and this words contain this much space between them
+
+capitalize
+synatx:-
+print(a.capitalize()) 
+first letter will become cap letter
